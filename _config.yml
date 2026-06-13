@@ -12,7 +12,7 @@ url: https://slimewribs.github.io/chris_and_theresa_day/
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /chris_and_theresa_day
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/slimewribs?tab=repositories#:~:text=chris_and_theresa_day
 
 ##########
 # SITE SETTINGS
