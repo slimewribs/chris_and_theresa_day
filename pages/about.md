@@ -5,11 +5,11 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: CANT_01
+about-featured-image: objects/CANT_66.jpg
 # set background-position for featured image, "center", "top", "bottom"
-position: bottom
+position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: About this Collection
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
@@ -18,20 +18,15 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## Happy 4-year Anniversary, Chris!
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Dear Christopher,
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Happy anniversary, my love! Who can believe it's already been four years? This is the first time that I have looked back at our old photos and realized that we are already growing old together lol. It's trippy and emotional, but it's also beautiful and something I wouldn't trade for the world.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Thank you for being my partner in this life, for being my friend, and for loving me in all of my craziness, unseriousness, and insanity. Oh, and also beauty and geniusness and wisdom. You are my inspiration, and I can't wait until we are together once more. Please enjoy this digital collection I've created. This is one of the things I learned how to make at school! I figured I might as well put all that schooling to work since it prolonged the long-distance. I love you, crease <3.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="CANT_01" width="35" %} 
 
 
 
